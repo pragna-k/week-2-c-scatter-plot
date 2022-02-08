@@ -1,5 +1,5 @@
 # week-2-c-scatter-plot
-Names <- c("Shiva","Manya","Satwika","Nithya","Kiran")
+Names <- c("pragna","swathi","lohitha","Nithya","bhuvana")
 Rollno <- c("Y20CS093","Y20CS123","Y20CS095","Y20CS127","Y20CS130")
 Gender <- c("Female","Female","Female","Female","Female")
 Marks <-c(2,4,6,8,10)
